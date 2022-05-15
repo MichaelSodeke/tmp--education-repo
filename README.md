@@ -3,7 +3,7 @@
 
 [ description ] ---------------------------------------------------------------------------
 
-	.md file containing detailed information to improve a person's skills in 'automotive repair'.
+	.md file containing detailed information to improve a person's skills in 'network security'.
 
 [ explanation ] ---------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 	become an expert in the field of 'automotive repair'.
 -->
 
-<h1 align="center"> SYSTEMS TECHNICIAN </h1>
+<h1 align="center"> NETWORK SECURITY </h1>
 <h3 align="center"> A PRIMER </h3>
 
 <!--discipline-->
