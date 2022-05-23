@@ -30,8 +30,17 @@ provide summary of license and notice.
 > 1. [Network Security](https://www.techopedia.com/definition/24783/network-security)
 
 **Mechanics**
+{% content-ref url="WIKIME-1/1-mechanics/objective.md" %}
+[OBJECTIVE](WIKIME-1/1-mechanics/objective.md)
+{% endcontent-ref %}
 
-* [subpage-1](WIKIME-1/1-mechanics/page-1.md)
+{% content-ref url="WIKIME-1/1-mechanics/c-1.md" %}
+[CASE-1: solving linear systems](WIKIME-1/1-mechanics/c-1.md)
+{% endcontent-ref %}
+
+{% content-ref url="WIKIME-1/1-mechanics/tc-1.md" %}
+[TEST CASE-1](WIKIME-1/1-mechanics/tc-1.md)
+{% endcontent-ref %}
 
 **Applications**
 
