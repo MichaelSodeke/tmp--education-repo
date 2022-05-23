@@ -1,10 +1,8 @@
 <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9f2ba735cac72df98c855abf774e30d4.jpg"/>
 
-# README
+<h1 align="center"> NETWORK SECURITY </h1>
 
-## NETWORK SECURITY
-
-#### A PRIMER
+<h3 align="center"> A PRIMER </h3>
 
 #### DISCIPLINE
 
