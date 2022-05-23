@@ -31,10 +31,7 @@ provide summary of license and notice.
 
 **Mechanics**
 
-* Objective
-
-1. case:
-2. case:
+* [subpage-1](WIKIME-1/1-mechanics/page-1.md)
 
 **Applications**
 

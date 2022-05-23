@@ -18,7 +18,6 @@
 ## WIKIME
 
 * [ESSENCE](WIKIME-0/0-essence/README.md)
-  * [subpage-1](WIKIME-0/0-essence/page-1.md)
 
 * [MECHANICS](WIKIME-1/1-mechanics/README.md)
   * [subpage-1](WIKIME-1/1-mechanics/page-1.md)
