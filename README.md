@@ -32,8 +32,8 @@ provide summary of license and notice.
 ### STUDY GUIDE
 	<!--mechanics-->
 
-{% content-ref url="WIKIME-1/1-mechanics/objective.md" %}
-[objective.md](WIKIME-1/1-mechanics/objective.md)
+{% content-ref url="WIKIME-1/1-mechanic.md" %}
+[objective.md](WIKIME-1/1-mechanics.md)
 {% endcontent-ref %}
 
 	<!--applications-->
