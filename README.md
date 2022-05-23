@@ -31,15 +31,15 @@ provide summary of license and notice.
 
 **Mechanics**
 {% content-ref url="WIKIME-1/1-mechanics/objective.md" %}
-[OBJECTIVE](WIKIME-1/1-mechanics/objective.md)
+[objective.md](WIKIME-1/1-mechanics/objective.md)
 {% endcontent-ref %}
 
 {% content-ref url="WIKIME-1/1-mechanics/c-1.md" %}
-[CASE-1: solving linear systems](WIKIME-1/1-mechanics/c-1.md)
+[c-1.md](WIKIME-1/1-mechanics/c-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="WIKIME-1/1-mechanics/tc-1.md" %}
-[TEST CASE-1](WIKIME-1/1-mechanics/tc-1.md)
+[tc-1.md](WIKIME-1/1-mechanics/tc-1.md)
 {% endcontent-ref %}
 
 **Applications**
