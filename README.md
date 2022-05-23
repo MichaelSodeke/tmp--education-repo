@@ -30,15 +30,15 @@ provide summary of license and notice.
 > 1. [Network Security](https://www.techopedia.com/definition/24783/network-security)
 
 ### STUDY GUIDE
-	<!--mechanics-->
+<!--mechanics-->
 
-{% content-ref url="WIKIME-1/1-mechanic.md" %}
-[objective.md](WIKIME-1/1-mechanics.md)
+{% content-ref url="WIKIME/1-mechanics.md" %}
+[1-mechanics.md](WIKIME/1-mechanics.md)
 {% endcontent-ref %}
 
-	<!--applications-->
+<!--applications-->
 
-	<!--concpetual-->
+<!--concpetual-->
 
 #
 
