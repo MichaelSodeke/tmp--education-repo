@@ -1,4 +1,6 @@
 ---
+cover: >-
+  https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9f2ba735cac72df98c855abf774e30d4.jpg
 coverY: 0
 ---
 
