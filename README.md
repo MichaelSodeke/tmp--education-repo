@@ -33,16 +33,19 @@
 ### STUDY GUIDE
 
 <!--mechanics-->
+
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics" %}
 [README.md](WIKIME/1-mechanics/README.md)
 {% endcontent-ref %}
 
 <!--applications-->
+
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications" %}
 [README.md](WIKIME/2-applications/README.md)
 {% endcontent-ref %}
 
 <!--concpetual-->
+
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-conceptual" %}
 [README.md](WIKIME/3-conceptual/README.md)
 {% endcontent-ref %}
