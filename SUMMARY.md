@@ -25,4 +25,4 @@
 
 * [APPLICATIONS](WIKIME/2-applications/README.md)
 
-* [CONCEPTUAL](WIKIME/3-conceptual/README.md)
+* [CONCEPTUAL](WIKIME/3-concepts/README.md)

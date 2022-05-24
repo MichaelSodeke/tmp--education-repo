@@ -44,10 +44,10 @@
 [README.md](WIKIME/2-applications/README.md)
 {% endcontent-ref %}
 
-<!--concpetual-->
+<!--concpets-->
 
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-conceptual" %}
-[README.md](WIKIME/3-conceptual/README.md)
+{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts" %}
+[README.md](WIKIME/3-concepts/README.md)
 {% endcontent-ref %}
 
 #
