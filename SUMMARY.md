@@ -18,7 +18,7 @@
 <!--wikime-->
 ## WIKIME
 
-* [MECHANICS](WIKIME/1-mechanics.md)
+* [MECHANICS](WIKIME/1-mechanics/README.md)
 	* [OBJECTIVE](WIKIME/1-mechanics/0-objective.md)
 	* [CASE-1: blah](WIKIME/1-mechanics/c-1.md)
 	* [TEST CASE-1: blah](WIKIME/1-mechanics/tc-1.md)
