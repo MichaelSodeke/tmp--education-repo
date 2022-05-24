@@ -1,4 +1,4 @@
-# Objective
+## Objective
 
 {% hint style="info" %} <!--info,tip,danger,working-->
 **Note:** blah blah
@@ -6,7 +6,7 @@
 
 #
 
-# Case-1: blah
+## Case-1: blah
 
 > **EXAMPLE**
 >
@@ -24,10 +24,10 @@
 
 #
 
-# Case-2: blah
+## Case-2: blah
 
 ..
 
 #
 
-# Test Case-1
+## Test Case-1
