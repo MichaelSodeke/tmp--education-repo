@@ -12,11 +12,11 @@
 >
 > description here.
 
-{% hint style="tip" %}
+{% hint style="info" %}
 **Note:** blah blah
 {% endhint %}
 
-{% hint style="tip" %}
+{% hint style="info" %}
 **Note:** blah blah
 {% endhint %}
 
@@ -24,7 +24,7 @@
 
 #
 
-## Case-1: blah
+## Case-2: blah
 
 ..
 
