@@ -32,7 +32,7 @@ provide summary of license and notice.
 ### STUDY GUIDE
 <!--mechanics-->
 
-{% content-ref url="WIKIME/1-mechanics.md" %}
+{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/mechanics" %}
 [Mechanics](WIKIME/1-mechanics.md)
 {% endcontent-ref %}
 
