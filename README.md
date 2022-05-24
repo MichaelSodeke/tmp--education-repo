@@ -54,8 +54,6 @@
 
 <!--discipline-2-->
 ## DISCIPLINE 2
-provide summary of license and notice.
-> [read more about LICENSE NOTICE](WIKIME/0-license-notice/README.md)
 
 #
 
