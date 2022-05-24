@@ -28,8 +28,7 @@
 >
 > ###
 >
-> 1. [Network
->    Security](https://www.techopedia.com/definition/24783/network-security)
+> 1. [Network Security](https://www.techopedia.com/definition/24783/network-security)
 
 ### STUDY GUIDE
 
