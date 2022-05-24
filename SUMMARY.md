@@ -1,4 +1,3 @@
-
 <!--
 [ file: README.md ] =======================================================================
 
@@ -25,4 +24,4 @@
 
 * [APPLICATIONS](WIKIME/2-applications/README.md)
 
-* [CONCEPTUAL](WIKIME/3-concepts/README.md)
+* [CONCEPTS](WIKIME/3-concepts/README.md)
