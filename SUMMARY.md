@@ -18,11 +18,11 @@
 <!--wikime-->
 ## WIKIME
 
-* [MECHANICS](WIKIME-1/1-mechanics.md)
-	* [OBJECTIVE](WIKIME/1-mechanics/objective.md)
+* [MECHANICS](WIKIME/1-mechanics.md)
+	* [OBJECTIVE](WIKIME/1-mechanics/0-objective.md)
 	* [CASE-1: ..](WIKIME/1-mechanics/c-1.md)
 	* [TEST CASE-1: ..](WIKIME/1-mechanics/tc-1.md)
 
-* [APPLICATIONS](WIKIME-2/2-applications.md)
+* [APPLICATIONS](WIKIME/2-applications.md)
 
-* [CONCEPTUAL](WIKIME-3/3-conceptual.md)
+* [CONCEPTUAL](WIKIME/3-conceptual.md)
