@@ -37,12 +37,12 @@ provide summary of license and notice.
 {% endcontent-ref %}
 
 <!--applications-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications" %}
+{% content-ref url="" %}
 [Applications.md](WIKIME/2-applications.md)
 {% endcontent-ref %}
 
 <!--concpetual-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-conceptual" %}
+{% content-ref url="" %}
 [Conceptual.md](WIKIME/3-conceptual.md)
 {% endcontent-ref %}
 
