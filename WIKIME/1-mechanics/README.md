@@ -1,5 +1,3 @@
-## blah
-
 <!--section-1-->
 
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics/section-1" %}
