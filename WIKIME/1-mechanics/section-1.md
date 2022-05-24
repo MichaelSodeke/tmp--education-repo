@@ -20,9 +20,13 @@
 **Note:** blah blah
 {% endhint %}
 
-{% hint style="working" %}
 **Solution:** blah blah
-{% endhint %}
+
+#
+
+## Case-1: blah
+
+..
 
 #
 
