@@ -33,7 +33,7 @@ provide summary of license and notice.
 <!--mechanics-->
 
 {% content-ref url="WIKIME/1-mechanics.md" %}
-[1-mechanics.md](WIKIME/1-mechanics.md)
+[Mechanics](WIKIME/1-mechanics.md)
 {% endcontent-ref %}
 
 <!--applications-->
