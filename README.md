@@ -39,12 +39,12 @@
 
 <!--applications-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications" %}
-[Applications](WIKIME/2-applications.md)
+[Applications](WIKIME/2-applications/README.md)
 {% endcontent-ref %}
 
 <!--concpetual-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-conceptual" %}
-[Conceptual](WIKIME/3-conceptual.md)
+[Conceptual](WIKIME/3-conceptual/README.md)
 {% endcontent-ref %}
 
 #
