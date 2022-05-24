@@ -3,11 +3,14 @@
 
 [ description     ] -----------------------------------------------------------------------
 
-	text file containing blah..
+	.md file containing educational material for network security.
 
 [ explanation     ] -----------------------------------------------------------------------
 
-	the purpose of this text file is to blah..
+	the purpose of this .md file is to be a primer on network security. it is divided into
+	mechanics, applications, and concepts. mechanics focuses on technique, applications
+	focuses on practical use cases, and concepts focuses on theory. each are designed to
+	help beginners gradually become well versed in network security.
 -->
 
 <!--banner: [1920 x 620]-->
@@ -61,8 +64,8 @@
 Cheers! 👋
 > **CONTACT**
 >
-> Please notify me of any issues discovered in the **Issues** tab. If you have any questions head over to
-> to the **Discussions** tab and start a topic.
+> For any issues discovered, go to he **Issues** tab. If any questions, head over to
+> to the **Discussions** tab.
 > #
 > **Michael Šòdéké**
 > - [X] `issues ` [https://github.com/../issues](https://github.com/../issues)
