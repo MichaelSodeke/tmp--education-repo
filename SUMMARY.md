@@ -19,9 +19,9 @@
 ## WIKIME
 
 * [MECHANICS](WIKIME/1-mechanics/README.md)
-	* [OBJECTIVE](WIKIME/1-mechanics/0-objective.md)
-	* [CASE-1: blah](WIKIME/1-mechanics/c-1.md)
-	* [TEST CASE-1: blah](WIKIME/1-mechanics/tc-1.md)
+	* [section-1](WIKIME/1-mechanics/section-1.md)
+	* [section-2](WIKIME/1-mechanics/section-2.md)
+	* [section-3](WIKIME/1-mechanics/section-3.md)
 
 * [APPLICATIONS](WIKIME/2-applications/README.md)
 
