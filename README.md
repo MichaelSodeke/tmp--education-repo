@@ -64,10 +64,10 @@
 Cheers! 👋
 > **CONTACT**
 >
-> For any issues discovered, go to he **Issues** tab. If any questions, head over to
+> For any issues discovered, go to the **Issues** tab. For questions, head over to
 > to the **Discussions** tab.
 > #
 > **Michael Šòdéké**
-> - [X] `issues ` [https://github.com/../issues](https://github.com/../issues)
-> - [X] `discuss` [https://github.com/../discussions](https://github.com/../discussions)
-> - [X] `e-mail ` Olubemiga@gmail.com
+> - `issues ` [https://github.com/../issues](https://github.com/../issues)
+> - `discuss` [https://github.com/../discussions](https://github.com/../discussions)
+> - `e-mail ` Olubemiga@gmail.com
