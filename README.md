@@ -46,7 +46,7 @@ provide summary of license and notice.
 
 <!--concpetual-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-conceptual" %}
-[Conceptual](WIKIME/3-conceptual.md)
+[Conceptual](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-conceptual)
 {% endcontent-ref %}
 
 #
