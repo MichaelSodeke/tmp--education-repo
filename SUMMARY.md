@@ -24,10 +24,10 @@
 
 * [APPLICATIONS](WIKIME/2-applications/README.md)
 	* [section-1](WIKIME/2-applications/section-1.md)
-	* [section-1](WIKIME/2-applications/section-2.md)
-	* [section-1](WIKIME/2-applications/section-3.md)
+	* [section-2](WIKIME/2-applications/section-2.md)
+	* [section-3](WIKIME/2-applications/section-3.md)
 
 * [CONCEPTS](WIKIME/3-concepts/README.md)
 	* [section-1](WIKIME/3-concepts/section-1.md)
-	* [section-1](WIKIME/3-concepts/section-2.md)
-	* [section-1](WIKIME/3-concepts/section-3.md)
+	* [section-2](WIKIME/3-concepts/section-2.md)
+	* [section-3](WIKIME/3-concepts/section-3.md)
