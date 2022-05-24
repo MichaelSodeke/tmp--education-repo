@@ -3,11 +3,11 @@
 
 [ description ] ---------------------------------------------------------------------------
 
-	text file containing blah..
+	this .md file contains the table of contents for the network security gitbook.io file.
 
 [ explanation ] ---------------------------------------------------------------------------
 
-	the purpose of this text file is to blah..
+	the purpose of this .md file is for navigating pages and sub-pages on gitbook.com
 -->
 
 # Table of contents
