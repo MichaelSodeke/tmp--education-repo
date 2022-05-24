@@ -16,10 +16,8 @@
 <h3 align="center"> A PRIMER </h2>
 
 <!--discipline-1-->
+
 ## DISCIPLINE 1
-provide summary of license and notice.
-> — [read more about LICENSE NOTICE](WIKIME/0-license-notice/README.md)
-#
 
 ### Essence
 
@@ -30,11 +28,12 @@ provide summary of license and notice.
 >
 > ###
 >
-> 1. [Network Security](https://www.techopedia.com/definition/24783/network-security)
+> 1. [Network
+>    Security](https://www.techopedia.com/definition/24783/network-security)
 
 ### STUDY GUIDE
-<!--mechanics-->
 
+<!--mechanics-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics" %}
 [Mechanics](WIKIME/1-mechanics.md)
 {% endcontent-ref %}
@@ -46,7 +45,7 @@ provide summary of license and notice.
 
 <!--concpetual-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-conceptual" %}
-[Conceptual](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-conceptual)
+[Conceptual](WIKIME/3-conceptual.md)
 {% endcontent-ref %}
 
 #
