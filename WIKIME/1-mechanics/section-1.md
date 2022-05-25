@@ -39,26 +39,24 @@
 
 **Solution:** blah blah
 
+> **TEST CASE 1**
+>
+> description here.
+
+> **TEST CASE 2**
+>
+> description here.
+
+> **TEST CASE 3**
+>
+> description here.
+
 #
 
 <!--case-2-->
 ## Case-2: blah
 
 ..
-
-#
-
-<!--test case-1-->
-## Test Case-1: blah
-
-> **EXAMPLE**
->
-> description here.
-
-#
-
-<!--test case-2-->
-## Test Case-2: blah
 
 <!--
 [ END             ] -----------------------------------------------------------------------
