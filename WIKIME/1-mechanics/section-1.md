@@ -10,6 +10,9 @@
 	the purpose of this .md file is to assist students enhance their learning process.
 -->
 
+<!--
+[ info            ] -----------------------------------------------------------------------
+-->
 <!--objective-->
 ## Objective
 
@@ -47,3 +50,16 @@
 
 <!--test case-1-->
 ## Test Case-1: blah
+
+> **EXAMPLE**
+>
+> description here.
+
+#
+
+<!--test case-2-->
+## Test Case-2: blah
+
+<!--
+[ END             ] -----------------------------------------------------------------------
+-->
