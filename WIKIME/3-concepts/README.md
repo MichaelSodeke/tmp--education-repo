@@ -10,6 +10,7 @@
 	the purpose of this .md file is to provide an overview of concepts studied in network security.
 -->
 
+[ info            ] -----------------------------------------------------------------------
 <!--section-1-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts/section-1" %}
 [section-1.md](WIKIME/3-concepts/section-1.md)
@@ -24,3 +25,5 @@
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts/section-3" %}
 [section-3.md](WIKIME/3-concepts/section-3.md)
 {% endcontent-ref %}
+
+[ END             ] -----------------------------------------------------------------------
