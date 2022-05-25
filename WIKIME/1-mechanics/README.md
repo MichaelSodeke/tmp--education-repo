@@ -3,11 +3,11 @@
 
 [ description     ] -----------------------------------------------------------------------
 
-	this .md file contains sections for each technique.
+	this .md file contains sections for each mechanic or technique.
 
 [ explanation     ] -----------------------------------------------------------------------
 
-	the purpose of this .md file is to provide an overview of the mechanics of network security.
+	the purpose of this .md file is to provide an overview of mechanics used in network security.
 -->
 
 <!--section-1-->
