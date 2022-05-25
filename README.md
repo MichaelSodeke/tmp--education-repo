@@ -18,11 +18,8 @@
 <h1 align="center"> NETWORK SECURITY </h1>
 <h3 align="center"> A PRIMER </h2>
 
-<!--discipline-1-->
-
-## DISCIPLINE 1
-
-### Essence
+<!--essence-->
+## Essence
 
 > Network security is an over-arching term that describes the policies and procedures implemented by a network administrator
 > to avoid and keep track of unauthorized access, exploitation, modification, or denial of the network and network resources.
@@ -33,30 +30,23 @@
 >
 > 1. [Network Security](https://www.techopedia.com/definition/24783/network-security)
 
-### STUDY GUIDE
+<!--study-guide-->
+## STUDY GUIDE
 
 <!--mechanics-->
-
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics" %}
 [README.md](WIKIME/1-mechanics/README.md)
 {% endcontent-ref %}
 
 <!--applications-->
-
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications" %}
 [README.md](WIKIME/2-applications/README.md)
 {% endcontent-ref %}
 
 <!--concpets-->
-
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts" %}
 [README.md](WIKIME/3-concepts/README.md)
 {% endcontent-ref %}
-
-#
-
-<!--discipline-2-->
-## DISCIPLINE 2
 
 #
 
