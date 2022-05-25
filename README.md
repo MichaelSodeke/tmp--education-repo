@@ -31,7 +31,7 @@
 > 1. [Network Security](https://www.techopedia.com/definition/24783/network-security)
 
 <!--study-guide-->
-## STUDY GUIDE
+## Study Guide
 
 <!--mechanics-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics" %}
