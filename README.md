@@ -35,17 +35,17 @@
 
 <!--mechanics-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics" %}
-[README.md](WIKIME/1-mechanics/README.md)
+[README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics)
 {% endcontent-ref %}
 
 <!--applications-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications" %}
-[README.md](WIKIME/2-applications/README.md)
+[README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications)
 {% endcontent-ref %}
 
 <!--concpets-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts" %}
-[README.md](WIKIME/3-concepts/README.md)
+[README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts)
 {% endcontent-ref %}
 
 #
