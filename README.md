@@ -40,12 +40,12 @@
 
 <!--applications-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications" %}
-[README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications)
+[docs/WIKIME/README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications)
 {% endcontent-ref %}
 
 <!--concpets-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts" %}
-[README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts)
+[docs/WIKIME/README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts)
 {% endcontent-ref %}
 
 #
