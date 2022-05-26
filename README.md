@@ -35,7 +35,7 @@
 
 <!--mechanics-->
 {% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics" %}
-[README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics)
+[docs/WIKIME/README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics)
 {% endcontent-ref %}
 
 <!--applications-->
