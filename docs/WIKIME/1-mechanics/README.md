@@ -1,33 +1,13 @@
-<!--
-[ file: README.md ] =======================================================================
+# MECHANICS
 
-[ description     ] -----------------------------------------------------------------------
-
-	this .md file contains sections for each mechanic or technique.
-
-[ explanation     ] -----------------------------------------------------------------------
-
-	the purpose of this .md file is to provide an overview of mechanics used in network security.
--->
-
-<!--
-[ info            ] -----------------------------------------------------------------------
--->
-<!--section-1-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics/mechanic-1" %}
-[docs/WIKIME/1-mechanics/mechanic-1.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics/mechanic-1)
+{% content-ref url="mechanic-1.md" %}
+[mechanic-1.md](mechanic-1.md)
 {% endcontent-ref %}
 
-<!--section-2-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics/mechanic-2" %}
-[docs/WIKIME/1-mechanics/mechanic-2.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics/mechanic-2)
+{% content-ref url="mechanic-2.md" %}
+[mechanic-2.md](mechanic-2.md)
 {% endcontent-ref %}
 
-<!--section-3-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics/mechanic-3" %}
-[docs/WIKIME/1-mechanics/mechanic-3.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics/mechanic-3)
+{% content-ref url="mechanic-3.md" %}
+[mechanic-3.md](mechanic-3.md)
 {% endcontent-ref %}
-
-<!--
-[ END             ] -----------------------------------------------------------------------
--->
