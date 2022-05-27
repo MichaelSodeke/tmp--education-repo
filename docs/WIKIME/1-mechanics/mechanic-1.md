@@ -44,19 +44,19 @@
 >
 > description here.
 
-
-
-{% hint style="info" %}
-**Note:** blah blah
-{% endhint %}
-
-
+ 
 
 {% hint style="info" %}
 **Note:** blah blah
 {% endhint %}
 
+ 
 
+{% hint style="info" %}
+**Note:** blah blah
+{% endhint %}
+
+ 
 
 {% hint style="success" %}
 **Solution:** blah blah
@@ -74,17 +74,77 @@
 >
 > description here.
 
-
+ 
 
 > **TEST Q2**
 >
 > description here.
 
-
+ 
 
 > **TEST Q3**
 >
 > description here.
+{% endtab %}
+
+{% tab title="Case-2" %}
+> **TEST Q1**
+>
+> description here.
+
+ 
+
+> **TEST Q2**
+>
+> description here.
+
+ 
+
+> **TEST Q3**
+>
+> description here.
+{% endtab %}
+{% endtabs %}
+
+
+
+### Test Problems: Solutions
+
+{% tabs %}
+{% tab title="Case-1" %}
+> **TEST Q1**
+>
+> description here.
+
+ 
+
+{% hint style="success" %}
+**Solution:** blah blah
+{% endhint %}
+
+ 
+
+> **TEST Q2**
+>
+> description here.
+
+ 
+
+{% hint style="success" %}
+**Solution:** blah blah
+{% endhint %}
+
+ 
+
+> **TEST Q3**
+>
+> description here.
+
+ 
+
+{% hint style="success" %}
+**Solution:** blah blah
+{% endhint %}
 {% endtab %}
 
 {% tab title="Case-2" %}
@@ -105,4 +165,3 @@
 > description here.
 {% endtab %}
 {% endtabs %}
-
