@@ -14,7 +14,7 @@
 >
 > 1. [Network Security](https://www.techopedia.com/definition/24783/network-security)
 
-### Study Guide .
+### Study Guide
 
 {% content-ref url="WIKIME/1-mechanics/" %}
 [1-mechanics](WIKIME/1-mechanics/)
