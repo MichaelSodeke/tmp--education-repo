@@ -69,110 +69,38 @@
 ### Test Problems
 
 {% tabs %}
-{% tab title="Level 1" %}
-> **TEST CASE 1**
+{% tab title="Case-1" %}
+> **TEST Q1**
 >
 > description here.
 
 
 
-> **TEST CASE 2**
+> **TEST Q2**
 >
 > description here.
 
 
 
-> **TEST CASE 3**
->
-> description here.
-{% endtab %}
-
-{% tab title="Level 2" %}
-> **TEST CASE 1**
->
-> description here.
-
-
-
-> **TEST CASE 2**
->
-> description here.
-
-
-
-> **TEST CASE 3**
+> **TEST Q3**
 >
 > description here.
 {% endtab %}
 
-{% tab title="Level 3" %}
-> **TEST CASE 1**
+{% tab title="Case-2" %}
+> **TEST Q1**
 >
 > description here.
 
 
 
-> **TEST CASE 2**
+> **TEST Q2**
 >
 > description here.
 
 
 
-> **TEST CASE 3**
->
-> description here.
-{% endtab %}
-
-{% tab title="Level 4" %}
-> **TEST CASE 1**
->
-> description here.
-
-
-
-> **TEST CASE 2**
->
-> description here.
-
-
-
-> **TEST CASE 3**
->
-> description here.
-{% endtab %}
-
-{% tab title="Level 5" %}
-> **TEST CASE 1**
->
-> description here.
-
-
-
-> **TEST CASE 2**
->
-> description here.
-
-
-
-> **TEST CASE 3**
->
-> description here.
-{% endtab %}
-
-{% tab title="Level 6" %}
-> **TEST CASE 1**
->
-> description here.
-
-
-
-> **TEST CASE 2**
->
-> description here.
-
-
-
-> **TEST CASE 3**
+> **TEST Q3**
 >
 > description here.
 {% endtab %}
