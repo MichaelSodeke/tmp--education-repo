@@ -8,7 +8,7 @@
 
 {% tabs %}
 {% tab title="Case-1" %}
-### Case-1: blah
+#### Case-1: blah
 
 > **EXAMPLE**
 >
@@ -32,15 +32,19 @@
 **Solution:** blah blah
 {% endhint %}
 
-#
+
 
 > **TEST CASE 1**
 >
 > description here.
 
+
+
 > **TEST CASE 2**
 >
 > description here.
+
+
 
 > **TEST CASE 3**
 >
