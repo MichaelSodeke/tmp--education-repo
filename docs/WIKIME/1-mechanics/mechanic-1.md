@@ -31,16 +31,8 @@
 {% hint style="success" %}
 **Solution:** blah blah
 {% endhint %}
-{% endtab %}
 
-{% tab title="Case-2" %}
-
-{% endtab %}
-{% endtabs %}
-
-
-
-
+#
 
 > **TEST CASE 1**
 >
@@ -53,9 +45,9 @@
 > **TEST CASE 3**
 >
 > description here.
+{% endtab %}
 
-##
+{% tab title="Case-2" %}
 
-### Case-2: blah
-
-..
+{% endtab %}
+{% endtabs %}
