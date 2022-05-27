@@ -13,6 +13,7 @@ description: A PRIMER
 > ####
 >
 > 1. [Network Security](https://www.techopedia.com/definition/24783/network-security)
+> 2. [Study Guide](https://michael-sodeke.gitbook.io/eng-cmp-network-security/)
 
 ### Study Guide
 
