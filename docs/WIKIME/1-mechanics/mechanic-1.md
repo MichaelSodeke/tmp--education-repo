@@ -152,16 +152,34 @@
 >
 > description here.
 
+ 
 
+{% hint style="success" %}
+**Solution:** blah blah
+{% endhint %}
+
+ 
 
 > **TEST Q2**
 >
 > description here.
 
+ 
 
+{% hint style="success" %}
+**Solution:** blah blah
+{% endhint %}
+
+ 
 
 > **TEST Q3**
 >
 > description here.
+
+ 
+
+{% hint style="success" %}
+**Solution:** blah blah
+{% endhint %}
 {% endtab %}
 {% endtabs %}
