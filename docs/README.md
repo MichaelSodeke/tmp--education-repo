@@ -18,6 +18,10 @@
 <h1 align="center"> NETWORK SECURITY </h1>
 <h3 align="center"> A PRIMER </h2>
 
+<!--
+[ info            ] -----------------------------------------------------------------------
+-->
+
 <!--essence-->
 ## Essence
 
@@ -61,3 +65,7 @@ Cheers! 👋
 > - `issues ` [https://github.com/../issues](https://github.com/../issues)
 > - `discuss` [https://github.com/../discussions](https://github.com/../discussions)
 > - `e-mail ` Olubemiga@gmail.com
+
+<!--
+[ END             ] -----------------------------------------------------------------------
+-->
