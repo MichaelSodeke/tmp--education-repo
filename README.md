@@ -29,18 +29,7 @@
 > ###
 >
 > 1. [Network Security](https://www.techopedia.com/definition/24783/network-security)
-
-<!--study-guide-->
-## Study Guide
-
-<!--mechanics-->
-[1-mechanics](https://michael-sodeke.gitbook.io/eng-cmp-network-security/)
-
-<!--applications-->
-[2-applications](https://michael-sodeke.gitbook.io/eng-cmp-network-security/)
-
-<!--concpets-->
-[3-concepts](https://michael-sodeke.gitbook.io/eng-cmp-network-security/)
+> 2. [Study Guide](https://michael-sodeke.gitbook.io/eng-cmp-network-security/)
 
 #
 
