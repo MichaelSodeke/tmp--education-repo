@@ -38,7 +38,29 @@
 {% endtab %}
 
 {% tab title="Case-2" %}
+#### Case-2: blah
 
+> **EXAMPLE**
+>
+> description here.
+
+
+
+{% hint style="info" %}
+**Note:** blah blah
+{% endhint %}
+
+
+
+{% hint style="info" %}
+**Note:** blah blah
+{% endhint %}
+
+
+
+{% hint style="success" %}
+**Solution:** blah blah
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
@@ -60,7 +82,7 @@
 
 
 
-> **TEST CASE 2**
+> **TEST CASE 3**
 >
 > description here.
 {% endtab %}
@@ -78,7 +100,7 @@
 
 
 
-> **TEST CASE 2**
+> **TEST CASE 3**
 >
 > description here.
 {% endtab %}
@@ -96,7 +118,7 @@
 
 
 
-> **TEST CASE 2**
+> **TEST CASE 3**
 >
 > description here.
 {% endtab %}
@@ -114,7 +136,7 @@
 
 
 
-> **TEST CASE 2**
+> **TEST CASE 3**
 >
 > description here.
 {% endtab %}
@@ -132,7 +154,7 @@
 
 
 
-> **TEST CASE 2**
+> **TEST CASE 3**
 >
 > description here.
 {% endtab %}
@@ -150,7 +172,7 @@
 
 
 
-> **TEST CASE 2**
+> **TEST CASE 3**
 >
 > description here.
 {% endtab %}
