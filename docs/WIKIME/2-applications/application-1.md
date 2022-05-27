@@ -1,42 +1,53 @@
-<!--
-[ file: section-1.md ] =======================================================================
+### Applications
 
-[ description        ] -----------------------------------------------------------------------
-
-	this .md file contains study materials for network security.
-
-[ explanation        ] -----------------------------------------------------------------------
-
-	the purpose of this .md file is to assist students enhance their learning process.
--->
-
-<!--
-[ info               ] -----------------------------------------------------------------------
--->
-<!--application-1-->
-## Application-1: blah
+{% tabs %}
+{% tab title="A1" %}
+#### A1: blah
 
 > **EXAMPLE**
 >
 > description here.
 
-{% hint style="info" %}
-**Note:** blah blah
-{% endhint %}
 
 {% hint style="info" %}
 **Note:** blah blah
 {% endhint %}
 
+
+
+{% hint style="info" %}
+**Note:** blah blah
+{% endhint %}
+
+
+
+{% hint style="success" %}
 **Solution:** blah blah
+{% endhint %}
+{% endtab %}
 
-#
+{% tab title="A2" %}
+#### A2: blah
 
-<!--application-2-->
-## Application-2: blah
+> **EXAMPLE**
+>
+> description here.
+ 
 
-..
+{% hint style="info" %}
+**Note:** blah blah
+{% endhint %}
 
-<!--
-[ END                ] -----------------------------------------------------------------------
--->
+ 
+
+{% hint style="info" %}
+**Note:** blah blah
+{% endhint %}
+
+ 
+
+{% hint style="success" %}
+**Solution:** blah blah
+{% endhint %}
+{% endtab %}
+{% endtabs %}

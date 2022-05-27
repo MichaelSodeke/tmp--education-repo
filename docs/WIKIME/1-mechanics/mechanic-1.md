@@ -11,8 +11,8 @@
 ### Cases
 
 {% tabs %}
-{% tab title="Case-1" %}
-#### Case-1: blah
+{% tab title="C1" %}
+#### C1: blah
 
 > **EXAMPLE**
 >
@@ -37,8 +37,8 @@
 {% endhint %}
 {% endtab %}
 
-{% tab title="Case-2" %}
-#### Case-2: blah
+{% tab title="C2" %}
+#### C2: blah
 
 > **EXAMPLE**
 >
@@ -69,7 +69,7 @@
 ### Test Problems
 
 {% tabs %}
-{% tab title="Case-1" %}
+{% tab title="C1" %}
 > **TEST Q1**
 >
 > description here.
@@ -87,7 +87,7 @@
 > description here.
 {% endtab %}
 
-{% tab title="Case-2" %}
+{% tab title="C2" %}
 > **TEST Q1**
 >
 > description here.
@@ -111,7 +111,7 @@
 ### Test Problems: Solutions
 
 {% tabs %}
-{% tab title="Case-1" %}
+{% tab title="C1" %}
 > **TEST Q1**
 >
 > description here.
@@ -147,7 +147,7 @@
 {% endhint %}
 {% endtab %}
 
-{% tab title="Case-2" %}
+{% tab title="C2" %}
 > **TEST Q1**
 >
 > description here.
