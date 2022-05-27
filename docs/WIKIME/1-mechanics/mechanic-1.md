@@ -6,6 +6,10 @@
 **Note:** blah blah
 {% endhint %}
 
+
+
+### Cases
+
 {% tabs %}
 {% tab title="Case-1" %}
 #### Case-1: blah
@@ -31,9 +35,19 @@
 {% hint style="success" %}
 **Solution:** blah blah
 {% endhint %}
+{% endtab %}
+
+{% tab title="Case-2" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 
+### Test Problems
+
+{% tabs %}
+{% tab title="Level 1" %}
 > **TEST CASE 1**
 >
 > description here.
@@ -46,12 +60,29 @@
 
 
 
-> **TEST CASE 3**
+> **TEST CASE 2**
 >
 > description here.
 {% endtab %}
 
-{% tab title="Case-2" %}
+{% tab title="Level 2" %}
+
+{% endtab %}
+
+{% tab title="Level 3" %}
+
+{% endtab %}
+
+{% tab title="Level 4" %}
+
+{% endtab %}
+
+{% tab title="Level 5" %}
+
+{% endtab %}
+
+{% tab title="Level 6" %}
 
 {% endtab %}
 {% endtabs %}
+
