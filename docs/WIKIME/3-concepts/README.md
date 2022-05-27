@@ -1,33 +1,13 @@
-<!--
-[ file: README.md ] =======================================================================
+# CONCEPTS
 
-[ description     ] -----------------------------------------------------------------------
-
-	this .md file contains sections for each concept.
-
-[ explanation     ] -----------------------------------------------------------------------
-
-	the purpose of this .md file is to provide an overview of concepts studied in network security.
--->
-
-<!--
-[ info            ] -----------------------------------------------------------------------
--->
-<!--section-1-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts/section-1" %}
-[section-1.md](WIKIME/3-concepts/section-1.md)
+{% content-ref url="concept-1.md" %}
+[concept-1.md](concept-1.md)
 {% endcontent-ref %}
 
-<!--section-2-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts/section-2" %}
-[section-2.md](WIKIME/3-concepts/section-2.md)
+{% content-ref url="concept-2.md" %}
+[concept-2.md](concept-2.md)
 {% endcontent-ref %}
 
-<!--section-3-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts/section-3" %}
-[section-3.md](WIKIME/3-concepts/section-3.md)
+{% content-ref url="concept-3.md" %}
+[concept-3.md](concept-3.md)
 {% endcontent-ref %}
-
-<!--
-[ END             ] -----------------------------------------------------------------------
--->
