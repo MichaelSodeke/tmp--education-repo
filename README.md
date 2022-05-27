@@ -34,13 +34,13 @@
 ## Study Guide
 
 <!--mechanics-->
-[1-mechanics](WIKIME/1-mechanics/README.md)
+[1-mechanics](docs/WIKIME/1-mechanics/README.md)
 
 <!--applications-->
-[2-applications](WIKIME/2-applications/README.md)
+[2-applications](docs/WIKIME/2-applications/README.md)
 
 <!--concpets-->
-[3-concepts](WIKIME/3-concepts/README.md)
+[3-concepts](docs/WIKIME/3-concepts/README.md)
 
 #
 
