@@ -1,13 +1,17 @@
 <!--
-[ file: README.md ] =======================================================================
+[ file: SUMMARY.md ] =======================================================================
 
-[ description ] ---------------------------------------------------------------------------
+[ description      ] -----------------------------------------------------------------------
 
 	this .md file contains the table of contents for the network security gitbook.io file.
 
-[ explanation ] ---------------------------------------------------------------------------
+[ explanation      ] -----------------------------------------------------------------------
 
 	the purpose of this .md file is for navigating pages and sub-pages on gitbook.com
+-->
+
+<!--
+[ info             ] -----------------------------------------------------------------------
 -->
 
 # Table of contents
@@ -31,3 +35,7 @@
 	* [concept-1](WIKIME/3-concepts/concept-1.md)
 	* [concept-2](WIKIME/3-concepts/concept-2.md)
 	* [concept-3](WIKIME/3-concepts/concept-3.md)
+
+<!--
+[ END              ] -----------------------------------------------------------------------
+-->
