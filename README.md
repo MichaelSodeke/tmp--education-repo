@@ -34,19 +34,13 @@
 ## Study Guide
 
 <!--mechanics-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics" %}
-[docs/WIKIME/README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/1-mechanics)
-{% endcontent-ref %}
+[1-mechanics](WIKIME/1-mechanics/README.md)
 
 <!--applications-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications" %}
-[docs/WIKIME/README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/2-applications)
-{% endcontent-ref %}
+[2-applications](WIKIME/2-applications/README.md)
 
 <!--concpets-->
-{% content-ref url="https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts" %}
-[docs/WIKIME/README.md](https://app.gitbook.com/s/mu33dlVwGGP0X87XtGkV/wikime/3-concepts)
-{% endcontent-ref %}
+[3-concepts](WIKIME/3-concepts/README.md)
 
 #
 
