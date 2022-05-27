@@ -1,45 +1,46 @@
-<!--
-[ file: README.md ] =======================================================================
+# mechanic-1
 
-[ description     ] -----------------------------------------------------------------------
-
-	this .md file contains study materials for network security.
-
-[ explanation     ] -----------------------------------------------------------------------
-
-	the purpose of this .md file is to assist students enhance their learning process.
--->
-
-<!--
-[ info            ] -----------------------------------------------------------------------
--->
-<!--objective-->
-## Objective
+### Objective
 
 {% hint style="info" %}
 **Note:** blah blah
 {% endhint %}
 
-#
-
-<!--case-1-->
-## Case-1: blah
+{% tabs %}
+{% tab title="Case-1" %}
+### Case-1: blah
 
 > **EXAMPLE**
 >
 > description here.
 
-{% hint style="info" %}
-**Note:** blah blah
-{% endhint %}
+
 
 {% hint style="info" %}
 **Note:** blah blah
 {% endhint %}
 
+
+
+{% hint style="info" %}
+**Note:** blah blah
+{% endhint %}
+
+
+
+{% hint style="success" %}
 **Solution:** blah blah
+{% endhint %}
+{% endtab %}
 
-#
+{% tab title="Case-2" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+
 
 > **TEST CASE 1**
 >
@@ -53,13 +54,8 @@
 >
 > description here.
 
-#
+##
 
-<!--case-2-->
-## Case-2: blah
+### Case-2: blah
 
 ..
-
-<!--
-[ END             ] -----------------------------------------------------------------------
--->
