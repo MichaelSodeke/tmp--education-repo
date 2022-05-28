@@ -42,5 +42,5 @@ Cheers! 👋
 > **Michael Šòdéké**
 >
 > * `issues` [https://github.com/MichaelSodeke/eng-cmp-prj--network-security/issues](https://github.com/MichaelSodeke/eng-cmp-prj--network-security/issues)
-> * `discuss` [https://github.com/MichaelSodeke/eng-cmp-prj--network-security/issues](https://github.com/MichaelSodeke/eng-cmp-prj--network-security/issues)
+> * `discuss` [https://github.com/MichaelSodeke/eng-cmp-prj--network-security/discussions](https://github.com/MichaelSodeke/eng-cmp-prj--network-security/discussions)
 > * `e-mail` Olubemiga@gmail.com
