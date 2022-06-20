@@ -43,8 +43,8 @@
 
 > **CONTACT: Michael Šòdéké**
 >
-> - [issues](https://github.com/MichaelSodeke/education-repo/issues)
-> - [discussions](https://github.com/MichaelSodeke/education-repo/discussions)
+> - [issues](https://github.com/MichaelSodeke/tmp--education-repo/issues)
+> - [discussions](https://github.com/MichaelSodeke/tmp--education-repo/discussions)
 > - Olubemiga@gmail.com
 
 <!--
