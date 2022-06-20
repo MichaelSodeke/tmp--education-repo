@@ -27,17 +27,17 @@
 
 # Table of Contents
 
-### 1.0 [title](WIKIME/1-mechanics/README.md)
+### 1.0 [Mechanics Objective](WIKIME/1-mechanics/README.md)
 
-### 1.1 [section-title](WIKIME/1-mechanics/README.md#section-title)
+### 1.1 [C1: blah](WIKIME/1-mechanics/README.md#C1: blah)
 
-### 2.0 [title](WIKIME/2-applications/README.md)
+### 2.0 [Applications Objective](WIKIME/2-applications/README.md)
 
-### 2.1 [section-title](WIKIME/2-applications/README.md#section-title)
+### 2.1 [A1: blah](WIKIME/2-applications/README.md#A1: blah)
 
-### 3.0 [title](WIKIME/3-concepts/README.md)
+### 3.0 [Concepts Objective](WIKIME/3-concepts/README.md)
 
-### 3.1 [section-title](WIKIME/3-concepts/README.md#section-title)
+### 3.1 [C1: blah](WIKIME/3-concepts/README.md#C1: blah)
 
 #
 
