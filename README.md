@@ -9,7 +9,7 @@
 	L1: the purpose of this .md file is to provide an overview of
 	L2: mechanics used in network security.
 ====================================[ sec-2: contents ]--> 
-![sample-banner](MEDIA/sample-banner-1920x620.png)
+![sample-banner](./MEDIA/sample-banner-1920x620.png)
 
 <h1 align="center"> PROGRAM NAME </h1>
 <h3 align="center"> A PRIMER </h2>
