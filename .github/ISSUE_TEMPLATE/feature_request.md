@@ -7,14 +7,26 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Provide a User Story
 
-**Describe the solution you'd like**
+### Background
+A clear and concise description of what the problem is. Ex: I'm always frustrated when [...]
+
+### Feature Request
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+> **Example 1**
+>
+> As a [persona], I [want to], [so that].
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+> **Example 2**
+>
+> As a manager, I want to be able to understand my colleagues progress, so I can better report our sucess and failures.
+
+> **Example 3**
+>
+> As Max, I want to invite my friends, so we can enjoy this service together.
+
+> **Example 4**
+>
+> As Sascha, I want to organize my work, so I can feel more in control.
