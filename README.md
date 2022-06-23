@@ -39,8 +39,6 @@
 
 ### 3.1 [C1: blah](WIKIME/3-concepts/README.md#c1-blah)
 
-#
-
 # Support
 
 ### How to use the knoweldge base
