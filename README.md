@@ -71,7 +71,7 @@ Learn more about the latest features for [release-tag].
 
 Learn more about [contributing](https://github.com/MichaelSodeke/tmp--education-repo/blob/dev/.github/CONTRIBUTING.md) to this project.
 
-## Depolyment
+## Deployment
 
 ### Tech Stack (aka. Solution Architechture/Infrastructure):
 
