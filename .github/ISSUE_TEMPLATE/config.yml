@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Discussions (Issues & Feature Requests)
+  - name: 🤝 GitHub Discussions (Issues & Feature Requests)
     url: https://github.com/MichaelSodeke/tmp--education-repo/discussions
     about: Please edit at .github/ISSUE_TEMPLATE/config.yml
            # replace with: Please ask and answer questions here, then create an issue from discussion.
