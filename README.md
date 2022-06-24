@@ -34,16 +34,6 @@
 
 #### 3.1 [C1: blah](WIKIME/3-concepts/README.md#c1-blah)
 
-## Features
-
-### APP feature title
-
-functionality description [learn more](https://github.com/MichaelSodeke/tmp--education-repo/discussions/categories/guides-app).
-
-### API feature title
-
-functionality description [learn more](https://github.com/MichaelSodeke/tmp--education-repo/discussions/categories/guides-api).
-
 ## Support
 
 ### How to use the knoweldge base
@@ -61,7 +51,7 @@ a new discussion under **Q&A** in the discussions tab.
 
 ### Features
 
-Learn more about the latest features for [release-tag].
+Learn more about [MyApp-9.0.x]'s latest [APP features](https://github.com/MichaelSodeke/tmp--education-repo/discussions/categories/guides-app) and [API features](https://github.com/MichaelSodeke/tmp--education-repo/discussions/categories/guides-api).
 
 ### Contribute
 
