@@ -70,7 +70,9 @@ Learn more about [contributing](https://github.com/MichaelSodeke/tmp--education-
 #
 
 > **CONTACT**: Olubemiga@gmail.com
+>
 > **AUTHORS**: [Contributors](https://github.com/MichaelSodeke/tmp--education-repo/blob/dev/AUTHORS.md)
+>
 > **LICENSE**: [MIT](https://github.com/MichaelSodeke/tmp--education-repo/blob/dev/LICENSE.md)
 
 <!--
