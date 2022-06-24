@@ -1,4 +1,4 @@
-# Support
+## Support
 
 ### How to use the knoweldge base
 
@@ -13,8 +13,18 @@ This project uses [GitHub Issues](https://github.com/MichaelSodeke/tmp--educatio
 issues before filing new issues to avoid duplicates. For new issues or feature requests, start
 a new discussion under **Q&A** in the discussions tab.
 
+### Features
+
+Learn more about [MyApp-9.0.x]'s latest [APP features](https://github.com/MichaelSodeke/tmp--education-repo/discussions/categories/guides-app) and [API features](https://github.com/MichaelSodeke/tmp--education-repo/discussions/categories/guides-api).
+
+### Contribute
+
+Learn more about [contributing](https://github.com/MichaelSodeke/tmp--education-repo/blob/dev/.github/CONTRIBUTING.md) to this project.
+
 #
 
-> **CONTACT: Michael Šòdéké**
-> 
-> - Olubemiga@gmail.com
+> **CONTACT**: Olubemiga@gmail.com
+>
+> **AUTHORS**: [Contributors](https://github.com/MichaelSodeke/tmp--education-repo/blob/dev/AUTHORS.md)
+>
+> **LICENSE**: [MIT](https://github.com/MichaelSodeke/tmp--education-repo/blob/dev/LICENSE.md)
