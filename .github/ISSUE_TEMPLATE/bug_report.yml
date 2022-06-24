@@ -3,7 +3,7 @@ description: Report errors and problems
 labels: [question]
 body:
   - type: dropdown
-    id: product
+    id: app-environment
     attributes:
       label: Did MyAPP or its Dependency generate the error?
       options:
@@ -15,7 +15,7 @@ body:
       required: true
 
   - type: dropdown
-    id: product
+    id: error-code
     attributes:
       label: What error code category did you get?
       options:
@@ -26,7 +26,7 @@ body:
       required: true
 
   - type: textarea
-    id: description
+    id: os-environment
     attributes:
       label: 'What is your operating system?'
       description: Provide the OS information included in the generated message
@@ -34,7 +34,7 @@ body:
       required: true
 
   - type: dropdown
-    id: product
+    id: suggested-solution
     attributes:
       label: Did you try the suggested solution?
       options:
