@@ -14,13 +14,13 @@ available on [GitHub Discussion](https://github.com/MichaelSodeke/tmp--education
 - iss-01/michael (unstable)
 - feat-a/michael (unstable)
 
-### tags:
+### Tags:
 
 - 9.0.0
 - 1.4.0
 - 8.2.1
 
-## templates
+## Templates
 Also, view these three templates:
 
 <!--please edit the following links for your repo-->
