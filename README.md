@@ -19,14 +19,14 @@ simplebages.: [ https://github.com/developStorm/simple-badges/blob/master/README
 -->
 
 **Tech Stack**:
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=square)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=square)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=square)
 
 **Dependencies**:
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
-![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
-![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=square)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=square)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=square)
 
 ![sample-banner](MEDIA/sample-banner-1920x620.jpg)
 
