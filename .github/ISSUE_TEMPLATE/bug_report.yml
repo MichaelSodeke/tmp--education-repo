@@ -38,8 +38,8 @@ body:
     attributes:
       label: Did you try the suggested solution?
       options:
-        - Yes
-        - No
+        - 'Yes'
+        - 'No'
     validations:
       required: true
 
