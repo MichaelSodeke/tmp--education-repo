@@ -11,6 +11,23 @@
 ====================================[ sec-2: contents ]--> 
 # PROGRAM NAME
 
+<!--
+make your own bages:
+shields.....: [ https://github.com/badges/shields#examples ]
+awsomebadges: [ https://github.com/badges/awesome-badges/blob/main/README.md#awesome-badges ]
+simplebages.: [ https://github.com/developStorm/simple-badges/blob/master/README.md#what-is-this ]
+-->
+
+**Tech Stack**:
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+
+**Dependencies**:
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat)
+
 ![sample-banner](MEDIA/sample-banner-1920x620.jpg)
 
 ## Essence
@@ -56,21 +73,6 @@ Learn more about [MyApp-9.0.x]'s latest [APP features](https://github.com/Michae
 ### Contribute
 
 Learn more about [contributing](https://github.com/MichaelSodeke/tmp--education-repo/blob/dev/.github/CONTRIBUTING.md) to this project.
-
-## Deployment
-
-### Tech Stack (aka. Solution Architechture/Infrastructure):
-
-- Ruby on Rails powers the REST API and other web pages
-- React.js and Redux are used for the dynamic parts of the interface
-- Node.js powers the streaming API
-
-### Dependencies:
-
-- PostgreSQL 9.5+
-- Redis 4+
-- Ruby 2.6+
-- Node.js 14+
 
 #
 
