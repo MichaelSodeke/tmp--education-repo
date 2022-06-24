@@ -9,7 +9,7 @@
 	L1: the purpose of this .md file is to provide an overview of
 	L2: mechanics used in network security.
 ====================================[ sec-2: contents ]--> 
-# PROGRAM NAME
+# MyAPP
 
 <!--
 make your own bages:
