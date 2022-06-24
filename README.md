@@ -18,7 +18,6 @@ awsomebadges: [ https://github.com/badges/awesome-badges/blob/main/README.md#awe
 simplebages.: [ https://github.com/developStorm/simple-badges/blob/master/README.md#what-is-this ]
 -->
 
-**Tech Stack**:
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
