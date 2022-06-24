@@ -1,0 +1,66 @@
+name: '🐛 Bug Report'
+description: Report errors and problems
+labels: [question]
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Did MyAPP or its Dependency generate the error?
+      options:
+        - MyApp
+        - Dependency1
+        - Dependency2
+        - Dependency3
+    validations:
+      required: true
+
+  - type: dropdown
+    id: product
+    attributes:
+      label: What error code category did you get?
+      options:
+        - E100 - title
+        - E200 - title
+        - E300 - title
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 'What is your operating system?'
+      description: Provide the OS information included in the generated message
+    validations:
+      required: true
+
+  - type: dropdown
+    id: product
+    attributes:
+      label: Did you try the suggested solution?
+      options:
+        - Yes
+        - No
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 'Description (Only if answered NO)'
+      description: Provide description included in the generated message
+    validations:
+      required: true
+
+  - type: textarea
+    id: possible-solution
+    attributes:
+      label: 'Have a Solution? (Only if answered NO)'
+      description: 'Optional: only if you have suggestions on a fix/reason for the bug'
+    validations:
+      required: false
+
+  #- type: markdown
+  #  attributes:
+  #    value: |
+  #      ## :heart: Love Shields?
+  #      Please consider donating $10 to sustain our activities: [https://opencollective.com/shields](https://opencollective.com/shields)
