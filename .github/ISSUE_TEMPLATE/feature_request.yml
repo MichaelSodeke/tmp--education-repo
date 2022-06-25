@@ -14,6 +14,6 @@ body:
     id: user-story
     attributes:
       label: 'User Story'
-      description: A clear and concise description of what the feature is. [Ex] (As) a manager, (I want to) be able to understand my colleagues progress, (so) I can better report our sucess and failures.
+      description: A clear and concise description of what the feature is. [Ex] (As a) manager, (I want to) be able to understand my colleagues progress, (so) I can better report our sucess and failures.
     validations:
       required: true
