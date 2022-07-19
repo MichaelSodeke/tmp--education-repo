@@ -8,27 +8,44 @@
 - explanation  :: ..                :
 	L1: ..
 	L2: ..
-====================================[ sec-2: contents ]--> 
-# Objective
+====================================[ sec-2: contents ]-->
+## Methods
 
-> Hello from Mars!
-> ..
+### Method :: Title of method 1
 
-## Applications
+#### Observation
 
-### A1: blah
+**Background**
+This is a sentence.
 
-> **EXAMPLE**
->
-> description here.
+**Objective**
+This is a sentence.
 
-**Note:** blah blah
+#### Grammar
 
-**Note:** blah blah
+**Unknown Data**
+This is a sentence.
 
-**Solution:** blah blah
+**Known Data**
+This is a sentence.
 
-### A1: blah
+**Hypothesis**
+This is a sentence.
+
+#### Logic
+
+**Arguments**
+This is a sentence.
+
+**Validate**
+This is a sentence.
+
+#### Rhetoric
+
+**Explanation**
+This is a sentence.
+
+### Method :: Title of method 2
 
 ..
 
