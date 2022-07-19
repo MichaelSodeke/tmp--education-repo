@@ -34,15 +34,39 @@ simplebages.: [ https://github.com/developStorm/simple-badges/blob/master/README
 
 #### 1.0 [Mechanics Objective](WIKIME/1-mechanics/README.md)
 
-#### 1.1 [C1: blah](WIKIME/1-mechanics/README.md#c1-blah)
+#### 1.1 [Method :: Title of method 1](WIKIME/1-mechanics#method--title-of-method-1)
+
+#### 1.2 [Observation](WIKIME/1-mechanics#observation)
+
+#### 1.3 [Grammar](WIKIME/1-mechanics#grammar)
+
+#### 1.4 [Logic](WIKIME/1-mechanics#logic)
+
+#### 1.5 [Rhetoric](WIKIME/1-mechanics#rhetoric)
 
 #### 2.0 [Applications Objective](WIKIME/2-applications/README.md)
 
-#### 2.1 [A1: blah](WIKIME/2-applications/README.md#a1-blah)
+#### 2.1 [Method :: Title of method 1](WIKIME/2-applications#method--title-of-method-1)
+
+#### 2.2 [Observation](WIKIME/2-applications#observation)
+
+#### 2.3 [Grammar](WIKIME/2-applications#grammar)
+
+#### 2.4 [Logic](WIKIME/2-applications#logic)
+
+#### 2.5 [Rhetoric](WIKIME/2-applications#rhetoric)
 
 #### 3.0 [Concpets Objective](WIKIME/3-concepts/README.md)
 
-#### 3.1 [C1: blah](WIKIME/3-concepts/README.md#c1-blah)
+#### 3.1 [Method :: Title of method 1](WIKIME/3-concepts#method--title-of-method-1)
+
+#### 3.2 [Observation](WIKIME/3-concepts#observation)
+
+#### 3.3 [Grammar](WIKIME/3-concepts#grammar)
+
+#### 3.4 [Logic](WIKIME/3-concepts#logic)
+
+#### 3.5 [Rhetoric](WIKIME/3-concepts#rhetoric)
 
 ## Support
 
